@@ -14,3 +14,10 @@ Ans- out of all files, first add those files into staging area to which ou want 
 Q-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Ans- Branches will be useful for parrelel work in a project.
 
+
+
+
+
+Q- How do the diagrams help you visualize the branch structure?
+Ans- To check if you are on a detached state or can you have a path from the brach to whereever you want to go etc etc.
+
