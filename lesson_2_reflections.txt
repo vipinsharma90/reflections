@@ -3,4 +3,8 @@ Ans - It creates a .git folder in whch it saves all the meta data to track all f
 
 
 Q-How is the staging area different from the working directory and the repository? What value do you think it offers?
-Ans - Staging area is a in betwwen stage where you put files which you wants to commit. It offer soem files names which are supposed to be commit.
+Ans - Staging area is a in betwwen stage where you put files which you wants to commit. It offer soem files names which are supposed to be commit
+
+
+Q- How can you use the staging area to make sure you have one commit per logical change?
+Ans- out of all files, first add those files into staging area to which ou want to commit in a logical entity.
