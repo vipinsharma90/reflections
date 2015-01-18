@@ -1,0 +1,6 @@
+Q-what Happen when you initialize the repository? why do you need to do it?
+Ans - It creates a .git folder in whch it saves all the meta data to track all files it need to.
+
+
+Q-How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans - Staging area is a in betwwen stage where you put files which you wants to commit. It offer soem files names which are supposed to be commit.
