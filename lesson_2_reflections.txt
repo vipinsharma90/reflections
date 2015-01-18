@@ -15,6 +15,10 @@ Q-What are some situations when branches would be helpful in keeping your histor
 Ans- Branches will be useful for parrelel work in a project.
 
 
+Q-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans- Merging two branches make master branch on the new commit, and new commit have head as the both branches we just merged. Now from the new commit we can go to both branches so we don't need to have the branch we just merged with master.
+
+
 
 
 
