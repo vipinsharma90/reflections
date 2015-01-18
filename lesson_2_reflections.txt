@@ -25,3 +25,7 @@ Ans- Merging two branches make master branch on the new commit, and new commit h
 Q- How do the diagrams help you visualize the branch structure?
 Ans- To check if you are on a detached state or can you have a path from the brach to whereever you want to go etc etc.
 
+
+Q-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Ans- Automatic merges may make code bug full.
+
