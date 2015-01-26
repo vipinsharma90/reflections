@@ -3,3 +3,8 @@ Ans- Whenever I would like to share the code base with multiple people.
 
 Q-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans- Local work might get override because of automatic updation.
+
+Q-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans- Fork is to copy a repository from one githib account to another
+clone is to copy a repository from remote to local
+branches is to create multiple versions of your own repository.
